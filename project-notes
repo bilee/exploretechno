@@ -1,3 +1,5 @@
--remove Nulls from tableau dashboard
+20160120
+
+-remove Nulls from tableau dashboard; OK 2 nulls found in csv; removed; will be reflected in next update;
 
 -dashboard view code to website

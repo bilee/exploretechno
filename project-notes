@@ -2,4 +2,7 @@
 
 -remove Nulls from tableau dashboard; OK 2 nulls found in csv; removed; will be reflected in next update;
 
--dashboard view code to website
+-dashboard view code to website DONE
+
+-BUILD --> map in dashboard that shows artist origin
+

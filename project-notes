@@ -4,7 +4,9 @@
 
 -dashboard view code to website DONE
 
--BUILD --> map in dashboard that shows artist origin
+-BUILD --> TABLEAU map in dashboard that shows artist origin
 
--BUILD --> add live vs dj
+-BUILD --> DATABASE add live vs dj
+
+-BUILD --> TABLEAU year filter checkbox (01, 03,12)
 
